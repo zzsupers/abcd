@@ -11,9 +11,9 @@ The following **required** functionality is completed:
 
 * [X] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 * [X] List item with the [RecyclerView](https://guides.codepath.com/android/Using-the-RecyclerView).
-* [] For each movie displayed, user can see the following details:
-  * [ ] Title, Poster Image, Overview (Portrait mode)
-  * [ ] Title, Backdrop Image, Overview (Landscape mode)
+* [X] For each movie displayed, user can see the following details:
+  * [X] Title, Poster Image, Overview (Portrait mode)
+  * [X] Title, Backdrop Image, Overview (Landscape mode)
 
 The following **optional** features are implemented:
 

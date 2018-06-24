@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The NewYork Times</string>
+    <string name="compose" />
+    <string name="search">Search</string>
+    <string-array name="order_arrays">
+        <item>Newest</item>
+		<item>Oldest</item>
+    </string-array>
+    <string name="arts">Arts</string>
+
+    <string name="sports">Sports</string>
+    <string name="fashion_style"><![CDATA[Fashion & Style]]></string>
+</resources>
